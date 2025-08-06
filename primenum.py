@@ -6,5 +6,6 @@ for i in range(1,101):
             flag = 1
             break
         if(flag == 0):
-            print(i)
+            print(i) 
+            
             
